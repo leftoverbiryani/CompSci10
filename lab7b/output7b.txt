@@ -1,0 +1,38 @@
+Enter the first base of your trapezoid: 
+23
+Enter the second base of your trapezoid: 
+45
+Enter the height of your trapezoid: 
+49
+Area of the trapezoid: 1666.00
+
+Enter radius of your cylinder: 
+34
+Enter the height of your cylinder: 
+67
+Volume of cylinder: about 243322.634
+
+Enter the side length of your cube: 
+89
+Surface area of cube: 47526
+
+Enter the radius of your circle: 
+4
+Area of circle: about 50.265
+Enter the temperature in Farenheit: 
+80
+Temperature in celcius 26.67
+Enter the first x value: 
+3
+Enter the second x value: 
+7
+Enter the first y value: 
+1
+Enter the second y value: 
+3
+Slope of the line: 2.0
+Enter the length of the rectangle: 
+45
+Enter the width of the rectangle: 
+67
+Perimeter of rectangle: 224
