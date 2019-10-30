@@ -1,1 +1,1 @@
-print("bruh")
+print("YESBURHOASIHODJ")
