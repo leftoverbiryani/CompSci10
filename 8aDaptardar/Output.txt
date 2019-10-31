@@ -1,0 +1,12 @@
+yes
+no
+aplus
+Difference: 20
+Values are equal, product: 4489
+2022, This number is not a leap year
+220032, This number is a leap year
+1999, There is no discount, sorry.
+$2001.00, 10% discount, new price: $1800.9
+$2000.00, 5% discount, new price: $1900.0
+4, number is even
+5, this numebr is odd
