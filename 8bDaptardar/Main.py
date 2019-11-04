@@ -45,7 +45,7 @@ def averageDigits(x):
     average = count / count1
     print("Average of Digits in {}, {:0.3f}" .format(ogx, average));
     print()
-    
+
 def evenDigits(x):
     ogx = x
     y = True
