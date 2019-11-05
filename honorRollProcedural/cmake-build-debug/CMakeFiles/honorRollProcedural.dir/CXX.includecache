@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/sanay/Documents/CompSCi Programs/CompSci10/honorRollProcedural/main.cpp
+iostream
+-
+iomanip
+-
+string
+-
+cstdlib
+-
+ctime
+-
+
