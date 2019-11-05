@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/sanay/Desktop/honorRoll_OOP/honorRoll.cpp
+honorRoll.h
+C:/Users/sanay/Desktop/honorRoll_OOP/honorRoll.h
+iostream
+-
+iomanip
+-
+string
+-
+cstdlib
+-
+ctime
+-
+
+C:/Users/sanay/Desktop/honorRoll_OOP/honorRoll.h
+iostream
+-
+iomanip
+-
+
