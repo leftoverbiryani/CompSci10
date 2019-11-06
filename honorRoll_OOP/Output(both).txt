@@ -1,0 +1,145 @@
+Enter your full name:
+Sanay Daptardar
+How many courses are you taking?
+5
+Enter class 1:
+Algebra II
+Enter class 2:
+Chemistry
+Enter class 3:
+English II
+Enter class 4:
+US History II
+Enter class 5:
+CompSci Principles
+Enter your grade for Algebra II:
+98
+Enter your grade for Chemistry:
+99
+Enter your grade for English II:
+85
+Enter your grade for US History II:
+90
+Enter your grade for CompSci Principles:
+96
+Class:                Grade:
+Algebra II            98
+Chemistry             99
+English II            85
+US History II         90
+CompSci Principles    96
+
+Average:  93
+Disciplinary Infraction:  YES
+I'm sorry  Sanay Daptardar, but you didn't qualify for the honor roll.
+
+
+
+
+
+Enter your full name:
+Sanay Daptardar
+How many courses are you taking?
+5
+Enter class 1:
+Algebra II
+Enter class 2:
+Chemistry
+Enter class 3:
+English II
+Enter class 4:
+US History II
+Enter class 5:
+CompSci Principles
+Enter your grade for Algebra II:
+98
+Enter your grade for Chemistry:
+99
+Enter your grade for English II:
+85
+Enter your grade for US History II:
+90
+Enter your grade for CompSci Principles:
+96
+Class:                Grade:
+Algebra II            98
+Chemistry             99
+English II            85
+US History II         90
+CompSci Principles    96
+
+Average:  93
+Disciplinary Infraction:  NO
+Congratulations Sanay Daptardar! You have made the honor roll.
+
+
+
+
+Enter your full name:
+Sanay Daptardar
+How many courses are you taking?
+4
+Enter class 1:
+Algebra II
+Enter class 2:
+Chemistry
+Enter class 3:
+English II
+Enter class 4:
+US History II
+Enter your grade for Algebra II:
+98
+Enter your grade for Chemistry:
+99
+Enter your grade for English II:
+85
+Enter your grade for US History II:
+90
+Class:                Grade:
+Algebra II            98
+Chemistry             99
+English II            85
+US History II         90
+
+Average:  93
+Disciplinary Infraction:  NO
+I'm sorry  Sanay Daptardar, but you didn't qualify for the honor roll.
+
+
+
+
+Enter your full name:
+Sanay Daptardar
+How many courses are you taking?
+5
+Enter class 1:
+Algebra II
+Enter class 2:
+Chemistry
+Enter class 3:
+English II
+Enter class 4:
+US History II
+Enter class 5:
+CompSci Principles
+Enter your grade for Algebra II:
+86
+Enter your grade for Chemistry:
+86
+Enter your grade for English II:
+86
+Enter your grade for US History II:
+86
+Enter your grade for CompSci Principles:
+86
+Class:                Grade:
+Algebra II            86
+Chemistry             86
+English II            86
+US History II         86
+CompSci Principles    86
+
+Average:  86
+Disciplinary Infraction:  NO
+I'm sorry  Sanay Daptardar, but you didn't qualify for the honor roll.
+

@@ -1,0 +1,37 @@
+Neither the first nor the last digit of Car are vowels
+
+The first letter of Appalachian is a vowel
+
+The last letter of JoeMama is a vowel
+
+Both the first and last letters of Orange are vowels
+
+ Daptardar, Sanay
+
+Average length: 3.5
+
+Average length: 6.5
+
+Repeats: YES
+
+Repeats: NO
+
+Changed case: bruhbruh
+
+Changed case: BRUHBRUH
+
+More than 1 aplus in Bruhaplusbruhaplus
+
+Only 1 aplus in Bruhaplusbruh
+
+No aplus in Bruh!
+
+Valid, 5678
+
+44-144-5678 is invalid
+
+Pairs in bbruhhiissthecoollesst: 7
+
+Pairs in Mississippi: 3
+
+dkszkukqzk
