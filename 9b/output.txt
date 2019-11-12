@@ -1,0 +1,9 @@
+Values in array added: 1091
+
+Values in array multiplied: -6698967174900
+
+Values greater that first added: 218
+
+Last value repeats: False
+
+Last value repeats: True
