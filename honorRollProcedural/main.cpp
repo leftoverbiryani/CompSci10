@@ -13,6 +13,7 @@ int main() {
     int cnum;
     int g;
     int r;
+    bool test = false;
     bool infraction = false;
     bool eligible = false;
     int gtotal = 0;
@@ -23,21 +24,52 @@ int main() {
         r = rand() % 2;
     }
 
-    cout << "Enter your full name: " << endl;
-    getline(cin, name);
+    do {
+        cout << "Enter your full name: " << endl;
+        getline(cin, name);
 
-    cout << "How many courses are you taking?" << endl;
-    getline(cin, camount);
+        if (isdigit(name[0])) {
+            cout << "Please enter a valid name." << endl;
+            test = true;
+        }else if(!isdigit(name[0])){
+            test = false;
+        }
+    }while(test);
 
-    cnum = stoi(camount); //parsing int so that getline doesn't get messed up
+    do
+    {
+        cout << "How many courses are you taking?" << endl;
+        getline(cin, camount);
+
+        cnum = stoi(camount);  //parsing int so that getline doesn't get messed up
+        if(cnum < 1 || cnum > 8)
+        {
+            cout << "Please enter a valid input between 1 and 8" << endl;
+            test = true;
+        }else if(cnum >= 1  && cnum <= 8){
+            test = false;
+        }
+
+    }while(test);
+
+    cout << "Assumed classes: " << cnum << endl;
 
     string classes [8];
     int grades [8];
 
     for(int i = 1; i <= cnum; i++)
     {
-        cout << "Enter class " << i << ": " << endl;
-        getline(cin, c);
+        do
+        {
+            cout << "Enter class " << i << ": " << endl;
+            getline(cin, c);
+            if (c.length() >= 20) {
+                cout << "Please enter a class name with under 20 characters." << endl;
+                test = true;
+            }else if (c.length() < 20){
+                test = false;
+            }
+        }while(test);
         classes[i-1] = c;//setting classes
     }
 
