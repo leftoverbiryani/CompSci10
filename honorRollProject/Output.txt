@@ -1,0 +1,36 @@
+Enter your full name:
+Sanay
+How many courses are you taking?
+1234
+Please enter a valid input between 1 and 8
+How many courses are you taking?
+4
+Assumed classes: 4
+Enter class 1:
+Algebra II
+Enter class 2:
+sadihgeisdgfhiosdfubhisdfbusdfgiusdhb
+Please enter a class name with under 20 characters.
+Enter class 2:
+English
+Enter class 3:
+Chemistry
+Enter class 4:
+History
+Enter your grade for Algebra II:
+98
+Enter your grade for English:
+97
+Enter your grade for Chemistry:
+96
+Enter your grade for History:
+95
+Class:                Grade:
+Algebra II            98
+English               97
+Chemistry             96
+History               95
+
+Average:  96
+Disciplinary Infraction:  NO
+I'm sorry  Sanay, but you didn't qualify for the honor roll.

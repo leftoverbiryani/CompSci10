@@ -6,23 +6,17 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/sanay/Desktop/honorRoll_OOP/honorRoll.cpp
-honorRoll.h
-C:/Users/sanay/Desktop/honorRoll_OOP/honorRoll.h
+C:/Users/sanay/Documents/CompSCi Programs/CompSci10/honorRoll_OOP/honorRoll.h
 iostream
 -
 iomanip
+-
+
+C:/Users/sanay/Documents/CompSCi Programs/CompSci10/honorRoll_OOP/main.cpp
+iostream
 -
 string
 -
-cstdlib
--
-ctime
--
-
-C:/Users/sanay/Desktop/honorRoll_OOP/honorRoll.h
-iostream
--
-iomanip
--
+honorRoll.h
+C:/Users/sanay/Documents/CompSCi Programs/CompSci10/honorRoll_OOP/honorRoll.h
 

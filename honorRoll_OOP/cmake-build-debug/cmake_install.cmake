@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/sanay/Desktop/honorRoll_OOP
+# Install script for directory: C:/Users/sanay/Documents/CompSCi Programs/CompSci10/honorRoll_OOP
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/sanay/Desktop/honorRoll_OOP/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/sanay/Documents/CompSCi Programs/CompSci10/honorRoll_OOP/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

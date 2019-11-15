@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/sanay/Desktop/honorRoll_OOP/honorRoll.cpp" "C:/Users/sanay/Desktop/honorRoll_OOP/cmake-build-debug/CMakeFiles/honorRoll_OOP.dir/honorRoll.cpp.obj"
-  "C:/Users/sanay/Desktop/honorRoll_OOP/main.cpp" "C:/Users/sanay/Desktop/honorRoll_OOP/cmake-build-debug/CMakeFiles/honorRoll_OOP.dir/main.cpp.obj"
+  "C:/Users/sanay/Documents/CompSCi Programs/CompSci10/honorRoll_OOP/honorRoll.cpp" "C:/Users/sanay/Documents/CompSCi Programs/CompSci10/honorRoll_OOP/cmake-build-debug/CMakeFiles/honorRoll_OOP.dir/honorRoll.cpp.obj"
+  "C:/Users/sanay/Documents/CompSCi Programs/CompSci10/honorRoll_OOP/main.cpp" "C:/Users/sanay/Documents/CompSCi Programs/CompSci10/honorRoll_OOP/cmake-build-debug/CMakeFiles/honorRoll_OOP.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")
 

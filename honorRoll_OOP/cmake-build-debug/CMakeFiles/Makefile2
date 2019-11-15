@@ -45,10 +45,10 @@ RM = C:\Users\sanay\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39\
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\sanay\Desktop\honorRoll_OOP
+CMAKE_SOURCE_DIR = "C:\Users\sanay\Documents\CompSCi Programs\CompSci10\honorRoll_OOP"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\sanay\Desktop\honorRoll_OOP\cmake-build-debug
+CMAKE_BINARY_DIR = "C:\Users\sanay\Documents\CompSCi Programs\CompSci10\honorRoll_OOP\cmake-build-debug"
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -75,14 +75,14 @@ preinstall:
 CMakeFiles\honorRoll_OOP.dir\all:
 	$(MAKE) -f CMakeFiles\honorRoll_OOP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\honorRoll_OOP.dir\depend
 	$(MAKE) -f CMakeFiles\honorRoll_OOP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\honorRoll_OOP.dir\build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\sanay\Desktop\honorRoll_OOP\cmake-build-debug\CMakeFiles --progress-num=1,2,3 "Built target honorRoll_OOP"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\sanay\Documents\CompSCi Programs\CompSci10\honorRoll_OOP\cmake-build-debug\CMakeFiles" --progress-num=1,2,3 "Built target honorRoll_OOP"
 .PHONY : CMakeFiles\honorRoll_OOP.dir\all
 
 # Build rule for subdir invocation for target.
 CMakeFiles\honorRoll_OOP.dir\rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\sanay\Desktop\honorRoll_OOP\cmake-build-debug\CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\sanay\Documents\CompSCi Programs\CompSci10\honorRoll_OOP\cmake-build-debug\CMakeFiles" 3
 	$(MAKE) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) CMakeFiles\honorRoll_OOP.dir\all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\sanay\Desktop\honorRoll_OOP\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\sanay\Documents\CompSCi Programs\CompSci10\honorRoll_OOP\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles\honorRoll_OOP.dir\rule
 
 # Convenience name for target.

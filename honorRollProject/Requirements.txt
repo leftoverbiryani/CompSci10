@@ -1,0 +1,15 @@
+Error trap name.
+
+Error trap number of classes.
+
+Error trap classes (less than 20 characters, cannot input integers)
+
+Error trap grades input.
+
+Random disciplinary infraction.
+
+Clear and aligned display
+
+Average should be rounded with one decimal
+
+Correct paramaters (over 90 average, etc.) should print “make honor roll” message
