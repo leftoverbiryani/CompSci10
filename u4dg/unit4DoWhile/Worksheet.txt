@@ -1,0 +1,29 @@
+Number 1)
+
+Output:
+Please enter the number to start the countdown:
+5
+T-minus 5
+T-minus 4
+T-minus 3
+T-minus 2
+T-minus 1
+Zero
+Blast off!
+
+Number 2)
+
+z = 4;
+do
+{
+	sum += z;
+	cout <= sum;
+	z++
+}
+while (z <= 8);
+
+Number 3)
+
+Output:
+Loop completed. Counter at 5
+Sum at 15

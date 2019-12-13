@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/sanay/Documents/CompSCi Programs/CompSci10/u4dg/unit4DoWhile/main.cpp
+iostream
+-
+iomanip
+-
+string
+-
+

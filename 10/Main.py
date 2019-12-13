@@ -82,3 +82,5 @@ findSmallest(a)
 goingDown(b)
 goingDown(a)
 
+getLast(z)
+
