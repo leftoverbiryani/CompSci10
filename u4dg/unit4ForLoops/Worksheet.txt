@@ -1,0 +1,41 @@
+Number 1)
+Output:
+5
+10
+15
+20
+25
+
+Number 2)
+HELLO is never printed because
+the FOR condition is not met
+
+Number 3)
+Ouch!! Please Stop!
+Ouch!! Please Stop!
+Ouch!! Please Stop!
+Ouch!! Please Stop!
+Ouch!! Please Stop!
+
+Number 4)
+No output
+
+Number 5)
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+Ready or not, here I come!
+
+Number 6)
+2
+4
+6
+8
+who do we appreciate? Visual C++!

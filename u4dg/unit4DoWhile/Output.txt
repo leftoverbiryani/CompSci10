@@ -1,0 +1,51 @@
+Please enter a number between 1 and 10
+9
+Your input is valid.
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+32
+34
+36
+38
+40
+WHat is your name?
+Sanay
+How many times would you like it printed?
+5
+Sanay
+Sanay
+Sanay
+Sanay
+Sanay
+How many tests did you take?
+8
+Enter grade for test 1 (enter 0 to quit).
+98
+Enter grade for test 2 (enter 0 to quit).
+45
+Enter grade for test 3 (enter 0 to quit).
+67
+Enter grade for test 4 (enter 0 to quit).
+89
+Enter grade for test 5 (enter 0 to quit).
+100
+Enter grade for test 6 (enter 0 to quit).
+100
+Enter grade for test 7 (enter 0 to quit).
+134
+Enter grade for test 8 (enter 0 to quit).
+5
+Average: 79.8

@@ -5,13 +5,14 @@
 #include <iomanip>
 #include <string>
 #include <stdlib.h>
+#include <vector>
 
 using namespace std;
 
 int main() {
     //part 1
     string p;
-    /*int u_b110;
+    int u_b110;
     bool test = false;
     bool test2 = false;
     do
@@ -43,21 +44,21 @@ int main() {
             test = false; //ending outer loop if input is valid
             cout << "Your input is valid." << endl;
         }
-    }while(test); */
+    }while(test);
 
     //part 2
 
-    /*int num = 2;
+    int num = 2;
     do
     {
         cout << num << endl;
         num += 2;
     }while(num <= 40);
-     */
+
 
     //part 3
 
-    /*string uname;
+    string uname;
     cout << "WHat is your name?" << endl;
     getline(cin, uname);
 
@@ -69,13 +70,13 @@ int main() {
 
     ptname = stoi(ptnames);
 
-    /*int lnum = 0;
+    int lnum = 0;
     do
     {
         lnum++;
         cout << uname << endl;
     }while(lnum < ptname);
-     */
+
 
     //part 4
 
@@ -83,12 +84,15 @@ int main() {
 
     cout << "How many tests did you take?" << endl;
     getline(cin, tgnums);
-
     int tgnum = stoi(tgnums);
 
-    int tg [tgnum];
+    vector<double> tg;
 
-    int pg;
+    tg.push_back(7);
+    tg.push_back(8);
+
+    double pg;
+    double t = 0;
     for(int i = 0; i < tgnum; i++)
     {
         int tn = i+1;
@@ -97,8 +101,16 @@ int main() {
 
         if(pg == 0){
             exit(0);
+        }else if(pg != 0){
+            tg.push_back(pg);
+            t += pg;
         }
+
     }
+
+    double average = t / tgnum;
+
+    cout << "Average: " << fixed << setprecision(1) << average << endl;
 
         return 0;
 }
