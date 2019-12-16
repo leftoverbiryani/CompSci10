@@ -4,6 +4,7 @@
 #include <iostream>
 #include <iomanip>
 #include <string>
+#include <stdlib.h>
 
 using namespace std;
 
@@ -21,7 +22,7 @@ int main() {
             getline(cin, p);
             for(int i = 0; i < p.length(); i++)
             {
-                if (!isdigit(p[i]))//testing if the input is a string (extra).
+                if (!isdigit(p[i])) //testing if the input is a string (extra).
                 {
                     test2 = true;
                     cout << "Please enter a valid input" << endl;
@@ -56,14 +57,17 @@ int main() {
 
     //part 3
 
-    string uname;
+    /*string uname;
     cout << "WHat is your name?" << endl;
-    cin >> uname;
+    getline(cin, uname);
 
+    string ptnames;
     int ptname;
 
     cout << "How many times would you like it printed?" << endl;
-    cin >> ptname;
+    getline(cin, ptnames);
+
+    ptname = stoi(ptnames);
 
     /*int lnum = 0;
     do
@@ -75,10 +79,26 @@ int main() {
 
     //part 4
 
-    int tgnum;
+    string tgnums;
 
     cout << "How many tests did you take?" << endl;
-    cin >> tgnum;
+    getline(cin, tgnums);
+
+    int tgnum = stoi(tgnums);
+
+    int tg [tgnum];
+
+    int pg;
+    for(int i = 0; i < tgnum; i++)
+    {
+        int tn = i+1;
+        cout << "Enter grade for test " << tn << " (enter 0 to quit)." << endl;
+        cin >> pg;
+
+        if(pg == 0){
+            exit(0);
+        }
+    }
 
         return 0;
 }
