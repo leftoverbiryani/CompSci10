@@ -1,0 +1,56 @@
+ C++ knows loops.
+ C++ knows loops.
+ C++ knows loops.
+ C++ knows loops.
+ C++ knows loops.
+ C++ knows when to stop.
+ Would you like to run again? (y/n)
+ y
+ C++ knows loops.
+ C++ knows loops.
+ C++ knows loops.
+ C++ knows loops.
+ C++ knows loops.
+ C++ knows when to stop.
+ Would you like to run again? (y/n)
+ n
+ Enter number 1:
+ 56
+ Enter number 2:
+ 78
+ Enter number 3:
+ 456.6
+ Enter number 4:
+ 6
+ Enter number 5:
+ 77
+ Total: 673.6
+ Average: 134.72
+ Would you like to run again? (y/n)
+ y
+ Enter number 1:
+ 3456
+ Enter number 2:
+ 3
+ Enter number 3:
+ 4
+ Enter number 4:
+ 7
+ Enter number 5:
+ 8
+ Total: 3612.72
+ Average: 722.544
+ Would you like to run again? (y/n)
+ n
+ 1 2 4 8 16 32 64 128
+ Would you like to run again? (y/n)
+ y
+ 1 2 4 8 16 32 64 128
+ Would you like to run again? (y/n)
+ n
+ ╠ LOOPREVIL
+ Would you like to run again? (y/n)
+ y
+ ╠ LOOPREVIL
+ Would you like to run again? (y/n)
+ n
