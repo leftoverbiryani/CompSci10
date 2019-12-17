@@ -1,0 +1,46 @@
+Number 1)
+Output:
+0   0
+0   1
+0   2
+0   3
+1   0
+1   1
+1   2
+1   3
+
+Number 2)
+Output:
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+
+Number 3)
+Need to remove the semicolon after the first for loop.
+
+Number 4)
+Output:
+10 1
+10 2
+10 3
+9 1
+9 2
+9 3
+8 1
+8 2
+8 3
+7 1
+7 2
+7 3
+6 1
+6 2
+6 3
+
+Number 5)
+Output:
+&
+&&
+&&&
+&&&&
+&&&&&
+&&&&&&
