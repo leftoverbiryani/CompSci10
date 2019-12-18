@@ -1,0 +1,3 @@
+C:/Users/sanay/Documents/CompSCi Programs/CompSci10/u4dg/loopingQuiz/cmake-build-debug/CMakeFiles/loopingQuiz.dir
+C:/Users/sanay/Documents/CompSCi Programs/CompSci10/u4dg/loopingQuiz/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sanay/Documents/CompSCi Programs/CompSci10/u4dg/loopingQuiz/cmake-build-debug/CMakeFiles/rebuild_cache.dir

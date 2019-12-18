@@ -1,0 +1,39 @@
+Number 1)
+memory:
+sum-1 count-1
+sum-3 count-2
+sum-6 count-3
+sum-10 count-4
+sum-15 count-5
+
+output:
+Loop completed. Counter at 5
+Sum at 15
+
+Number 2)
+memory:
+puppy[count] = Null
+puppy[count] = "D"
+puppy[count] = "i"
+puppy[count] = "p"
+puppy[count] = "s"
+puppy[count] = "t"
+puppy[count] = "i"
+puppy[count] = "c"
+
+output:
+c
+Isn't this puppy a cutie!
+
+Number 3)
+memory:
+count: 0
+count: 1
+count: 2
+count: 3
+
+output:
+counter: 1
+counter: 2
+counter: 3
+Loop completed. Counter at 3
