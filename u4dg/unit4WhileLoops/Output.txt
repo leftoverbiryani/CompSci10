@@ -1,0 +1,84 @@
+Happy Holidays!
+Happy Holidays!
+Happy Holidays!
+Happy Holidays!
+Happy Holidays!
+Happy Holidays!
+Happy Holidays!
+Happy Holidays!
+Happy Holidays!
+Happy Holidays!
+Happy Holidays!
+Happy Holidays!
+Happy Holidays!
+Happy Holidays!
+Happy Holidays!
+Happy Holidays!
+Happy Holidays!
+Happy Holidays!
+Happy Holidays!
+Happy Holidays!
+
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+
+5
+7
+9
+11
+13
+15
+17
+19
+21
+23
+25
+27
+29
+31
+33
+35
+37
+39
+41
+43
+45
+47
+49
+51
+
+Enter a letter
+t
+HELLO
+Enter a letter
+asd
+HELLO
+Enter a letter
+ur]\
+HELLO
+Enter a letter
+c
+
+Enter your first name:
+Sanay
+1. S
+2. a
+3. n
+4. a
+5. y
+Sanay, there are 5 letters in your name.
+
+1. y
+2. a
+3. n
+4. a
+5. S
+That was your name backwards!

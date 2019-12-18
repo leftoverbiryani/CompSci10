@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/sanay/Documents/CompSCi Programs/CompSci10/u4dg/unit4NestFor/main.cpp" "C:/Users/sanay/Documents/CompSCi Programs/CompSci10/u4dg/unit4NestFor/cmake-build-debug/CMakeFiles/unit4NestFor.dir/main.cpp.obj"
+  "C:/Users/sanay/Documents/apCompSci10/CompSci10/u4dg/unit4NestFor/main.cpp" "C:/Users/sanay/Documents/apCompSci10/CompSci10/u4dg/unit4NestFor/cmake-build-debug/CMakeFiles/unit4NestFor.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")
 

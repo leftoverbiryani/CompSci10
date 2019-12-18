@@ -1,0 +1,25 @@
+Number 1)
+The loop will run infinitely because the loop condition will never stop being met
+
+Number 2)
+a:
+    counter: 1
+    counter: 2
+    counter: 3
+    Loop completed. Counter at 3
+
+b:
+    counter: 1
+    counter: 2
+    counter: 3
+    Loop completed. Counter at 3
+
+c:
+    counter: 1
+    counter: 2
+    Loop completed. Counter at 3
+
+d:
+    counter: 2
+    counter: 3
+    Loop completed. counter at 3
